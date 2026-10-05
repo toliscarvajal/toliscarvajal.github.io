@@ -1,0 +1,30 @@
+{
+ "name": "Japan · Itinerary",
+ "short_name": "Japan",
+ "id": "./",
+ "start_url": "./#/today",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#05060A",
+ "theme_color": "#05060A",
+ "icons": [
+  {
+   "src": "assets/app-icon-180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/app-icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/app-icon-720.png",
+   "sizes": "720x720",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
